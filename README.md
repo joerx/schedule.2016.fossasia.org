@@ -1,3 +1,1 @@
-Schedule page for FA16
-
-Install [caddy](https://caddyserver.com/), then just run `caddy`.
+Moved to https://github.com/fossasia/2016.fossasia.org/tree/gh-pages/schedule
